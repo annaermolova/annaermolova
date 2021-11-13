@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @annaermolova
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning QA
-- 📫 Send letters to alky@ya.ru
+- 🌱 I’m interested in IT  and currently learning QA
+- 📫 Сontact me by email alky@ya.ru
 
 <!---
 annaermolova/annaermolova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
